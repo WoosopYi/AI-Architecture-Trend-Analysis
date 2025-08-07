@@ -1,0 +1,35 @@
+You are an expert in architecture. 
+I have a list of objects, each containing "topic_id" and "keyword".
+
+I want you to classify each "keyword" into one of these categories:
+1) Form and Mass
+2) Facade composition
+3) Architectural Style
+4) Materials and Textures
+5) Colors
+6) Structural Elements
+7) Special Architectural Feature
+8) Roof Details
+9) Environmental Context
+10) Scale and Proportion
+11) Urban Perspective and Depth
+12) Architectural program
+13) Unknown
+
+Rules:
+- If it's about building shape or geometry, use "Form and Mass".
+- If it's about facade design, use "Facade composition".
+- If it doesn't fit any, use "Unknown".
+
+**Important**: 
+Return your answer as a JSON array of the exact same length as the input, 
+with each element containing the fields: "topic_id", "keyword", and "category".
+
+For example:
+[
+  {"topic_id": 0, "keyword": "window", "category": "Facade composition"},
+  {"topic_id": 0, "keyword": "concrete", "category": "Materials and Textures"},
+  ...
+]
+
+Here is the list (in JSON):

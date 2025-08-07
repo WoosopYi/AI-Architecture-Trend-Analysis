@@ -1,0 +1,311 @@
+Below is a **revised prompt** that assigns a realistic role to the AI—namely, a seasoned architect or architectural consultant—and requests a comprehensive, data-based analysis of current architectural trends. It also maintains the requirement for generating a **Midjourney** prompt using top keywords from each category. This version is phrased **as if** we’re genuinely asking an architect for their professional opinion, while still providing all the necessary data and instructions for a thorough response.
+
+---
+
+## **PROMPT (Revised)**
+
+**Role Assignment**:  
+You are a **world-class architectural consultant** with decades of experience in evaluating global design projects, materials, stylistic developments, and technological innovations. You’ve been asked:  
+> *“What do you think about today’s architectural trends?”*
+
+You have at your disposal a **set of categorized keywords**, each accompanied by `freq` (frequency) and `total_score` (C-tf-idf). These keywords were extracted from image descriptions of prominent architectural works. Drawing on this dataset, you will provide:
+
+1. A **realistic, data-driven architectural trend analysis** across all categories, as if you were **speaking to a professional audience** or **a curious interviewer**.  
+2. A single **Midjourney prompt** that captures the most important current trends, by integrating at least one top-3 keyword (based on total_score) **from each category** in a creative yet natural way.
+
+---
+
+### **Data Overview**
+
+Below are the **14 categories** with their respective keywords, frequencies, and C-tf-idf-based `total_score`. Within each category, we identify the **top 3 keywords** by `total_score`.
+
+---
+
+#### 1) **Form and Mass**
+```
+keyword      | freq | total_score
+---------------------------------
+flat         | 9    | 0.228944
+volume       | 8    | 0.211689
+geometric    | 7    | 0.210891
+rectangular  | 8    | 0.194742
+angular      | 5    | 0.158019
+angle        | 4    | 0.149359
+void         | 3    | 0.133291
+cylindrical  | 3    | 0.112696
+incline      | 2    | 0.111296
+sleek        | 3    | 0.105956
+```
+**Top 3 by total_score** → flat, volume, geometric
+
+---
+
+#### 2) **Materials and Textures**
+```
+keyword    | freq | total_score
+--------------------------------
+concrete   | 9    | 0.487876
+glass      | 11   | 0.337649
+reflective | 9    | 0.317180
+steel      | 4    | 0.204327
+brick      | 4    | 0.200209
+metallic   | 6    | 0.195110
+smooth     | 6    | 0.158655
+metal      | 5    | 0.153127
+reflection | 3    | 0.105537
+raw        | 3    | 0.095308
+```
+**Top 3 by total_score** → concrete, glass, reflective
+
+---
+
+#### 3) **Design Expression (Set 1)**
+```
+keyword    | freq | total_score
+--------------------------------
+contrast   | 8    | 0.204271
+bold       | 5    | 0.126582
+dynamic    | 4    | 0.106272
+sharply    | 2    | 0.089792
+showcase   | 2    | 0.088402
+distinctly | 2    | 0.067934
+clarity    | 2    | 0.061212
+display    | 2    | 0.058413
+capture    | 2    | 0.053517
+special    | 2    | 0.051114
+```
+**Top 3 by total_score** → contrast, bold, dynamic
+
+---
+
+#### 4) **Design Expression (Set 2)**
+```
+keyword     | freq | total_score
+--------------------------------
+contrast    | 8    | 0.204271
+bold        | 5    | 0.126582
+slender     | 4    | 0.119076
+dynamic     | 4    | 0.106272
+monumental  | 2    | 0.103660
+strong      | 4    | 0.103216
+massive     | 2    | 0.093790
+narrow      | 2    | 0.082040
+expansive   | 3    | 0.079234
+significant | 2    | 0.071729
+```
+**Top 3 by total_score** → contrast, bold, slender
+
+---
+
+#### 5) **Scale and Proportion**
+```
+keyword    | freq | total_score
+--------------------------------
+large      | 9    | 0.213492
+rise       | 4    | 0.188481
+high       | 4    | 0.158743
+space      | 4    | 0.105786
+extensive  | 3    | 0.085815
+accessible | 1    | 0.074339
+central    | 2    | 0.054863
+close      | 1    | 0.044967
+integrate  | 2    | 0.040825
+contain    | 1    | 0.040583
+```
+**Top 3 by total_score** → large, rise, high
+
+---
+
+#### 6) **Spatial/Functional**
+```
+keyword   | freq | total_score
+--------------------------------
+open      | 7    | 0.170968
+internal  | 3    | 0.115892
+openness  | 3    | 0.111035
+grey      | 3    | 0.105675
+blue      | 3    | 0.097034
+green     | 4    | 0.089518
+orange    | 1    | 0.073322
+shade     | 2    | 0.061966
+gray      | 2    | 0.055902
+silver    | 2    | 0.040187
+```
+**Top 3 by total_score** → open, internal, openness
+
+---
+
+#### 7) **Colors**
+```
+keyword      | freq | total_score
+---------------------------------
+white        | 9    | 0.239251
+dark         | 6    | 0.151160
+red          | 5    | 0.139173
+river        | 1    | 0.065491
+rocky        | 1    | 0.061604
+environment  | 3    | 0.061487
+foreground   | 2    | 0.059626
+landscape    | 3    | 0.059198
+natural      | 2    | 0.058605
+mist         | 1    | 0.052115
+```
+**Top 3 by total_score** → white, dark, red
+
+---
+
+#### 8) **Environmental Context**
+```
+keyword    | freq | total_score
+--------------------------------
+water      | 4    | 0.157083
+waterfront | 2    | 0.132218
+tree       | 4    | 0.074155
+```
+**Top 3 by total_score** → water, waterfront, tree
+
+---
+
+#### 9) **Detailing/Technique**
+```
+keyword      | freq | total_score
+---------------------------------
+expose       | 3    | 0.109405
+minimally    | 3    | 0.091454
+precise      | 3    | 0.085643
+illumination | 2    | 0.085046
+detailed     | 2    | 0.073304
+detailing    | 2    | 0.068166
+illuminate   | 2    | 0.067038
+reveal       | 2    | 0.053330
+semi         | 2    | 0.049798
+ornamental   | 1    | 0.046239
+```
+**Top 3 by total_score** → expose, minimally, precise
+
+---
+
+#### 10) **Special Architectural Feature**
+```
+keyword       | freq | total_score
+----------------------------------
+arch          | 1    | 0.181898
+canopy        | 3    | 0.146011
+balcony       | 3    | 0.145381
+podium        | 1    | 0.119075
+cantilevered  | 2    | 0.112042
+terrace       | 3    | 0.109866
+cantilever    | 1    | 0.105286
+balustrade    | 3    | 0.082439
+staircase     | 2    | 0.071448
+arcade        | 1    | 0.051604
+```
+**Top 3 by total_score** → arch, canopy, balcony
+
+---
+
+#### 11) **Architectural Style**
+```
+keyword       | freq | total_score
+----------------------------------
+minimalist    | 9    | 0.227925
+modern        | 9    | 0.203902
+contemporary  | 8    | 0.183067
+industrial    | 2    | 0.138138
+modernist     | 3    | 0.137959
+minimal       | 4    | 0.091965
+brutalist     | 1    | 0.072607
+classical     | 1    | 0.072071
+postmodern    | 1    | 0.066352
+minimalistic  | 2    | 0.050926
+```
+**Top 3 by total_score** → minimalist, modern, contemporary
+
+---
+
+#### 12) **Structural Elements**
+```
+keyword   | freq | total_score
+--------------------------------
+column    | 8    | 0.293797
+support   | 5    | 0.131743
+framing   | 4    | 0.130492
+floor     | 5    | 0.129002
+beam      | 2    | 0.094495
+slab      | 2    | 0.093701
+frame     | 2    | 0.065984
+framework | 2    | 0.055562
+truss     | 2    | 0.051952
+ceiling   | 2    | 0.051764
+```
+**Top 3 by total_score** → column, support, framing
+
+---
+
+#### 13) **Architectural Program**
+```
+keyword       | freq | total_score
+----------------------------------
+tower         | 2    | 0.246318
+residential   | 3    | 0.105222
+institutional | 3    | 0.097286
+pavilion      | 1    | 0.094046
+skyscraper    | 1    | 0.093613
+educational   | 1    | 0.073512
+museum        | 1    | 0.071478
+mosque        | 1    | 0.051276
+academic      | 1    | 0.046088
+civic         | 1    | 0.035049
+```
+**Top 3 by total_score** → tower, residential, institutional
+
+---
+
+#### 14) **Urban Perspective and Depth**
+```
+keyword | freq | total_score
+----------------------------
+urban   | 8    | 0.263154
+street  | 3    | 0.068437
+view    | 2    | 0.040117
+```
+**Top 3 by total_score** → urban, street, view
+
+---
+
+#### 15) **Roof Details**
+```
+keyword  | freq | total_score
+-----------------------------
+cornice  | 1    | 0.079963
+rooftop  | 3    | 0.077308
+pitch    | 2    | 0.036404
+roofline | 1    | 0.020666
+slope    | 1    | 0.017485
+```
+**Top 3 by total_score** → cornice, rooftop, pitch
+
+---
+
+## **Instructions**
+
+1. **[Result 1: Realistic Data-Driven Analysis]**  
+   - Provide a **thorough, number-based discussion** of each category.  
+   - Explain **why certain keywords** might have higher `freq` or `total_score`, and what that implies about **current architectural trends**.  
+   - Reference multiple categories to show how they **interrelate**, as though you’re responding to an interview question:  
+     > *“Architect, based on all this data, what are the major design tendencies we see in contemporary architecture?”*
+
+2. **[Result 2: Midjourney Prompt]**  
+   - Generate **one** cohesive paragraph describing a vivid architectural scene, using **at least one** top-3 keyword (by total_score) **from each category**.  
+   - Make sure the prompt is **artistically rich** and **flows naturally**.  
+   - This prompt should look like something you’d feed directly into Midjourney to generate an image that **reflects the real-world architectural trends** indicated by the data.
+
+Please present **Result 1** and **Result 2** as separate sections in your final answer.
+
+---
+
+### **Final Request**
+> Provide your output in two sections, “Result 1” (detailed analysis) and “Result 2” (Midjourney prompt), so we can easily distinguish them.
+
+Thank you!
+```

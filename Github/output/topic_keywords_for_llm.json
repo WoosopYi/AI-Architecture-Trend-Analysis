@@ -1,0 +1,3002 @@
+[
+  {
+    "topic_id": 0,
+    "keyword": "residential"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "natural"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "wooden"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "balcony"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "window"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "white"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "rectangular"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "vertical"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "dark"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "minimalist"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "contemporary"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "modern"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "metal"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "wall"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "large"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "horizontal"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "railing"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "landscape"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "floor"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "tone"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "tree"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "greenery"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "flat"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "wood"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "environment"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "warm"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "timber"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "low"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "clean"
+  },
+  {
+    "topic_id": 0,
+    "keyword": "traditional"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "pavilion"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "open"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "natural"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "canopy"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "support"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "timber"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "wall"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "space"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "slender"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "minimalist"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "landscape"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "openness"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "flat"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "horizontal"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "white"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "wooden"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "environment"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "tree"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "transparency"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "modern"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "flooring"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "rod"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "lawn"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "smooth"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "characterize"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "slab"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "simplicity"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "overall"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "transparent"
+  },
+  {
+    "topic_id": 1,
+    "keyword": "beam"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "urban"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "dynamic"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "metallic"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "glass"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "angular"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "contemporary"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "curve"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "large"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "panel"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "sculptural"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "silver"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "smooth"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "reflective"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "expansive"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "surface"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "striking"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "curved"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "fin"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "modern"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "sharply"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "unique"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "angle"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "support"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "contrast"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "glaze"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "special"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "surrounding"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "playful"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "vertical"
+  },
+  {
+    "topic_id": 2,
+    "keyword": "triangular"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "museum"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "surface"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "massing"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "geometric"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "contemporary"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "angle"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "volume"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "sculptural"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "glass"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "deconstructivist"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "modern"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "reflective"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "bold"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "white"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "large"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "monumental"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "shape"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "characterize"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "stone"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "opening"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "panel"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "smooth"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "vegetation"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "angular"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "minimalist"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "composition"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "fragmented"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "clear"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "rectangular"
+  },
+  {
+    "topic_id": 3,
+    "keyword": "monolithic"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "institutional"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "white"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "geometric"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "modern"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "openness"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "level"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "landscaping"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "rectilinear"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "glass"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "clear"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "clarity"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "glazing"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "special"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "transparency"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "clean"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "large"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "contemporary"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "neutral"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "minimalistic"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "minimalist"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "open"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "arrange"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "smooth"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "window"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "mosque"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "balustrade"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "composition"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "vertical"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "volume"
+  },
+  {
+    "topic_id": 4,
+    "keyword": "grid"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "concrete"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "brutalist"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "angular"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "cylindrical"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "expose"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "raw"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "strong"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "robust"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "massive"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "sculptural"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "seating"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "rough"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "corner"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "heavy"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "band"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "minimal"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "open"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "illuminate"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "characterize"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "void"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "monumental"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "horizontal"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "fin"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "geometry"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "stadium"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "volume"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "dark"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "window"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "gray"
+  },
+  {
+    "topic_id": 5,
+    "keyword": "beneath"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "educational"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "volume"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "white"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "metal"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "open"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "brick"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "window"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "column"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "horizontal"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "rectangular"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "landscape"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "vertical"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "expansive"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "modern"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "curved"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "interest"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "facility"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "slope"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "large"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "contemporary"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "sky"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "extensive"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "institutional"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "glazing"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "elevation"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "space"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "green"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "visually"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "reinforce"
+  },
+  {
+    "topic_id": 6,
+    "keyword": "brickwork"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "concrete"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "wall"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "smooth"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "canopy"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "central"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "line"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "narrow"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "neutral"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "minimalist"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "sculptural"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "geometric"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "surface"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "open"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "opening"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "curve"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "clean"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "white"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "finish"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "column"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "angle"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "cylindrical"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "symmetrical"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "public"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "flat"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "subtle"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "plaza"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "tone"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "grey"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "monolithic"
+  },
+  {
+    "topic_id": 7,
+    "keyword": "contemporary"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "cubic"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "minimalist"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "volume"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "geometric"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "smooth"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "contrast"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "flat"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "white"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "dark"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "gray"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "minimal"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "contemporary"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "metallic"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "purity"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "urban"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "frontal"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "opening"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "panel"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "matte"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "clean"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "special"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "detailing"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "hide"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "distinctly"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "glazing"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "rectangular"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "clear"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "concrete"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "bold"
+  },
+  {
+    "topic_id": 8,
+    "keyword": "simplicity"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "balcony"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "tower"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "band"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "modernist"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "residential"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "concrete"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "horizontal"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "vertical"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "repetition"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "greenery"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "glazing"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "white"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "floor"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "suggest"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "rooftop"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "rhythmic"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "continuous"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "composition"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "organic"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "urban"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "strong"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "stack"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "garden"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "high"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "clear"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "height"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "rectangular"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "blue"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "window"
+  },
+  {
+    "topic_id": 9,
+    "keyword": "alternate"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "industrial"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "steel"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "column"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "transparent"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "mesh"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "grid"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "expose"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "staircase"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "framework"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "concrete"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "metallic"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "metal"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "semi"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "beam"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "special"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "repetition"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "glazing"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "external"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "utilitarian"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "space"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "beige"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "large"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "extensive"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "aesthetic"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "glass"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "transparency"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "modern"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "clear"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "support"
+  },
+  {
+    "topic_id": 10,
+    "keyword": "pattern"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "transparent"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "urban"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "panel"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "narrow"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "refined"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "glass"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "modular"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "illumination"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "rhythmic"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "pattern"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "light"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "rectangular"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "minimalist"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "framing"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "multi"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "contemporary"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "ground"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "opaque"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "fluorescent"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "abstractly"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "level"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "lighting"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "modern"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "roofline"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "tightly"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "lattice"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "metallic"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "white"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "completely"
+  },
+  {
+    "topic_id": 11,
+    "keyword": "internally"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "skyscraper"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "sleek"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "bracing"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "reflective"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "stack"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "glass"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "slender"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "tinted"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "dense"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "mist"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "tall"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "vertical"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "height"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "blue"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "urban"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "predominantly"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "tower"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "verticality"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "significant"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "elliptical"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "cylindrical"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "upward"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "diagonal"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "prominence"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "rounded"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "dominate"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "volume"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "transparency"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "antenna"
+  },
+  {
+    "topic_id": 12,
+    "keyword": "disappear"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "cornice"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "classical"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "postmodern"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "mid"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "rise"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "vertical"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "teal"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "column"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "green"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "vivid"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "inspire"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "symmetrical"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "rhythmic"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "red"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "ground"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "strong"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "central"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "rhythm"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "cream"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "horizontal"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "combine"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "waterfront"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "moderate"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "minimally"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "monumental"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "daylight"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "formal"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "rectangular"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "contrast"
+  },
+  {
+    "topic_id": 13,
+    "keyword": "repeat"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "void"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "grid"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "vertical"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "louver"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "repetitive"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "framing"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "contain"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "horizontal"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "pattern"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "high"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "recess"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "metallic"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "glazing"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "detailed"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "residential"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "delineate"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "rise"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "clarity"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "minimally"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "space"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "slender"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "minimalist"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "flat"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "precise"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "floor"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "ceiling"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "family"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "refine"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "consistent"
+  },
+  {
+    "topic_id": 14,
+    "keyword": "garden"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "glaze"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "curtain"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "wall"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "metal"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "angle"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "frame"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "framing"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "support"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "angular"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "reflective"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "angularity"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "metallic"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "moderately"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "minimally"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "glass"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "large"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "transparency"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "urban"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "modernism"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "incline"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "flat"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "framework"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "special"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "horizontal"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "brick"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "panel"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "overgrown"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "international"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "indicator"
+  },
+  {
+    "topic_id": 15,
+    "keyword": "lean"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "cantilever"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "water"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "horizontal"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "steel"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "reflective"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "cantilevered"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "gray"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "strong"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "extend"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "brick"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "brown"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "pattern"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "surface"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "frame"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "grid"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "section"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "dark"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "truss"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "volume"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "reflection"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "opening"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "support"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "visibly"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "bold"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "minimal"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "extension"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "floor"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "core"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "rectangular"
+  },
+  {
+    "topic_id": 16,
+    "keyword": "concrete"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "waterfront"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "slab"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "cantilevered"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "terrace"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "horizontal"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "water"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "plane"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "floor"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "figure"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "glass"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "reflection"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "luxurious"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "featureless"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "balcony"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "modern"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "significant"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "relaxed"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "extensive"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "development"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "contemporary"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "tiered"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "illustrate"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "dynamic"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "rhythmically"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "flat"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "environment"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "integrate"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "balustrade"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "residential"
+  },
+  {
+    "topic_id": 17,
+    "keyword": "low"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "rib"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "curved"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "level"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "mural"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "metallic"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "golden"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "street"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "continuous"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "crown"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "modernist"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "curve"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "contextually"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "urban"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "gold"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "artistic"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "parapet"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "base"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "glass"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "pattern"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "rise"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "open"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "pillar"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "upper"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "balcony"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "undulate"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "capture"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "high"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "monumental"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "contrast"
+  },
+  {
+    "topic_id": 18,
+    "keyword": "white"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "tower"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "podium"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "rise"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "high"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "base"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "reflective"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "glass"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "sleek"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "urban"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "articulation"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "complementary"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "solely"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "visually"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "smoothly"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "metallic"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "red"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "distinct"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "patterning"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "pattern"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "vertical"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "subtly"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "smooth"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "intricately"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "plaza"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "twist"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "verticality"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "grid"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "geometric"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "cool"
+  },
+  {
+    "topic_id": 19,
+    "keyword": "capture"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "monumental"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "incline"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "concrete"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "sharply"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "rugged"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "sail"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "rocky"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "massive"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "wall"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "angle"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "terrain"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "contrast"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "bold"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "reflective"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "grey"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "profile"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "triangular"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "thick"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "buttress"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "defensive"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "explicitly"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "brutalism"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "placement"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "surface"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "pointed"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "planar"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "underscore"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "grassy"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "series"
+  },
+  {
+    "topic_id": 20,
+    "keyword": "steeply"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "block"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "coherence"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "open"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "balcony"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "residential"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "space"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "complex"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "aerial"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "concrete"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "staircase"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "proportional"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "modular"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "expose"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "linear"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "identical"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "metal"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "layout"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "unit"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "friendly"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "logic"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "housing"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "railing"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "viewpoint"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "regular"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "repetition"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "repetitive"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "metallic"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "array"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "apartment"
+  },
+  {
+    "topic_id": 21,
+    "keyword": "pattern"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "upper"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "use"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "mixed"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "level"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "urban"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "brick"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "grey"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "brown"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "responsive"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "volume"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "concrete"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "brickwork"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "vary"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "diverse"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "device"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "window"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "environmentally"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "rectangular"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "stack"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "contemporary"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "coloration"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "rust"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "solar"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "wood"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "traditional"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "external"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "neighbor"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "incorporate"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "shading"
+  },
+  {
+    "topic_id": 22,
+    "keyword": "opening"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "internal"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "showcase"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "transparency"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "illuminate"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "ornamental"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "mullion"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "illumination"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "outside"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "steel"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "modernist"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "detailing"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "dusk"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "vividly"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "grid"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "vast"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "canopy"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "curtain"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "horizontal"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "predominantly"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "space"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "system"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "calm"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "wide"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "locate"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "flat"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "frontal"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "modular"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "waterfront"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "clear"
+  },
+  {
+    "topic_id": 23,
+    "keyword": "vertical"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "brick"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "river"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "vertical"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "orange"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "canal"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "rectangular"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "pattern"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "solid"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "void"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "horizontal"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "open"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "volume"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "multiple"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "shade"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "solidity"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "red"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "rhythm"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "large"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "locate"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "reddish"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "louver"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "dynamic"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "manner"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "canalized"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "cohesively"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "complexity"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "multi"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "line"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "robust"
+  },
+  {
+    "topic_id": 24,
+    "keyword": "institutional"
+  }
+]
