@@ -1,33 +1,42 @@
-<!-- ─────────────────────────────── Header ──────────────────────────────── -->
-<p align="center">
-  <img src="docs/assets/pipeline_diagram.png" width="740" alt="Pipeline overview">
-</p>
+<!-- ─────────────── Language switcher ─────────────── -->
+[🇰🇷 한국어 README](README.kor.md)
 
-<h1 align="center">AI‑Architecture‑Trend‑Analysis </h1>
-<p align="center">
-  <strong>Vision‑Language Model → BERTopic → LLM recategorisation</strong><br>
-  A <em>turn‑key pipeline</em> for extracting, clustering&nbsp;&amp; interpreting architectural design trends from raw images.
-</p>
-
+<h1 align="center">AI‑Architecture‑Trend‑Analysis 🏛️🤖</h1>
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
-  <a href="https://github.com/WoosopYi/AI-Architecture-Trend-Analysis/stargazers"><img src="https://img.shields.io/github/stars/WoosopYi/AI-Architecture-Trend-Analysis?style=social"></a>
-  <a href="README.kor.md">🇰🇷 한국어 README</a>
+  <a href="https://github.com/WoosopYi/AI-Architecture-Trend-Analysis/stargazers">
+    <img src="https://img.shields.io/github/stars/WoosopYi/AI-Architecture-Trend-Analysis?style=social">
+  </a>
 </p>
 
----
+<table>
+<tr>
+  <!-- ──────────────── TOC (left) ──────────────── -->
+  <td width="58%" valign="top">
 
-## 📜 Table of Contents
-- [Key Features](#key-features)
-- [Methodology Overview](#methodology-overview)
-- [Installation & Quick Start](#installation--quick-start)
-- [Repository Structure](#repository-structure)
-- [Citation](#citation)
-- [Contributing](#contributing)
-- [License](#license)
+  <details open>
+  <summary><strong>📜 Table of Contents</strong></summary>
 
----
+  - [Key Features](#key-features)  
+  - [Methodology Overview](#methodology-overview)  
+  - [Installation & Quick Start](#installation--quick-start)  
+  - [Repository Structure](#repository-structure)  
+  - [Citation](#citation)  
+  - [Contributing](#contributing)  
+  - [License](#license)
+
+  </details>
+
+  </td>
+
+  <!-- ───────────── Diagram (right) ────────────── -->
+  <td width="42%" align="right" valign="top">
+    <img src="images/pipeline_diagram.png" alt="Pipeline overview" width="280">
+  </td>
+</tr>
+</table>
+
 
 ## ✨ Key Features
 | &nbsp; | &nbsp; |
