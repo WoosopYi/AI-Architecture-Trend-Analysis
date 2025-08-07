@@ -32,7 +32,7 @@
 
   <!-- ───────────── Diagram (right) ────────────── -->
   <td width="42%" align="right" valign="top">
-    <img src="images/pipeline_diagram.png" alt="Pipeline overview" width="280">
+    <img src="docs/assets/pipeline_diagram.png" alt="Pipeline overview" width="280">
   </td>
 </tr>
 </table>
