@@ -1,9 +1,9 @@
 <!-- ─────────────────────────────── Header ──────────────────────────────── -->
 <p align="center">
-  <img src="images/pipeline_diagram.png" width="740" alt="Pipeline overview">
+  <img src="docs/assets/pipeline_diagram.png" width="740" alt="Pipeline overview">
 </p>
 
-<h1 align="center">AI‑Architecture‑Trend‑Analysis 🏛️🤖</h1>
+<h1 align="center">AI‑Architecture‑Trend‑Analysis </h1>
 <p align="center">
   <strong>Vision‑Language Model → BERTopic → LLM recategorisation</strong><br>
   A <em>turn‑key pipeline</em> for extracting, clustering&nbsp;&amp; interpreting architectural design trends from raw images.
