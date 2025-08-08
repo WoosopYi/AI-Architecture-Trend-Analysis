@@ -1,6 +1,10 @@
-<!-- ─────────────────────────── Language Switcher ─────────────────────────── -->
-
-[🇰🇷 한국어 README](README.kor.md)
+<!-- Language Switcher -->
+<p align="right">
+  <img alt="English" src="https://img.shields.io/badge/EN-English-black?style=flat-square">
+  <a href="README.kor.md">
+    <img alt="한국어" src="https://img.shields.io/badge/KR-Korean-blue?style=flat-square">
+  </a>
+</p>
 
 # AI‑Architecture‑Trend‑Analysis
 
