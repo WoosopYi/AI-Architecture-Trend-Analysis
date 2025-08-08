@@ -23,7 +23,7 @@
 
 ### 2) Key Features (replace the whole section with this)
 
-## ✨ Key Features
+##  Key Features
 
 * **Text‑only start:** Use captions/descriptions—no manual labels needed.
 * **BERTopic discovery:** Embeddings → UMAP → HDBSCAN → c‑TF‑IDF for clear, interpretable topics.
@@ -35,7 +35,7 @@
 
 
 
-## 📦 What’s in this repo
+##  What’s in this repo
 
 A quick inventory of the repo:
 
@@ -76,7 +76,7 @@ AI-Architecture-Trend-Analysis/
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 Clone, install, prepare data, (optionally) add a local GGUF model, then run:
 
@@ -110,7 +110,7 @@ jupyter lab AI_Trend_Analysis.ipynb
 
 ---
 
-## 🗂️ Input data schema (CSV)
+##  Input data schema (CSV)
 
 Place a CSV at `./Data/data.csv` with at least a **`description`** column containing caption‑like text per image/project:
 
@@ -136,7 +136,7 @@ Key fixes vs. your previous draft:
 
 ---
 
-## 🧪 Step‑by‑Step
+##  Step‑by‑Step
 
 ### 0) Environment setup (required library installation)
 
@@ -648,7 +648,7 @@ for cat_name in cat_counts.head(5)["category"]:
 
 ---
 
-## 🔧 Configuration you may want to change
+##  Configuration you may want to change
 
 * **CSV path/encoding:** `Data/data.csv`, `encoding="cp949"` → change to your file & encoding.
 * **spaCy model:** `en_core_web_trf` (transformer‑based, large). If memory is tight, try `en_core_web_sm`.
@@ -658,7 +658,7 @@ for cat_name in cat_counts.head(5)["category"]:
 
 ---
 
-## 📝 Citation
+##  Citation
 
 ```plain
 이우섭. (2025‑04‑23). AI 기반 이미지 텍스트화를 활용한 건축 이미지 데이터 추이 분석
@@ -668,19 +668,19 @@ for cat_name in cat_counts.head(5)["category"]:
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 This project builds on **BERTopic** for topic discovery (UMAP/HDBSCAN + c‑TF‑IDF, multi‑aspect representations, rich visualisations, etc.). See the BERTopic README & docs for algorithmic details and advanced features.&#x20;
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Bug reports, feature ideas and real‑world use cases are welcome – open an **Issue** or **Pull Request**.
 
 ---
 
-## 📜 License
+##  License
 
 Released under the **MIT License**.
 
