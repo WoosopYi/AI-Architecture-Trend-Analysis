@@ -35,33 +35,58 @@
 
 
 
-##  What’s in this repo
+<h2>What's in this repo</h2>
+<p>A quick inventory of the repo:</p>
 
-A quick inventory of the repo:
+<table>
+  <thead>
+    <tr>
+      <th align="left">path</th>
+      <th align="left">purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="AI_Trend_Analysis.ipynb"><code>AI_Trend_Analysis.ipynb</code></a></td>
+      <td>Main Code</td>
+    </tr>
+    <tr>
+      <td><a href="Data/"><code>Data/</code></a></td>
+      <td>Put your input CSVs(e.g., <code>data.csv</code>)</td>
+    </tr>
+    <tr>
+      <td><a href="output/"><code>output/</code></a></td>
+      <td>Outputs(CSV/JSON/플롯)</td>
+    </tr>
+    <tr>
+      <td><a href="prompt/"><code>prompt/</code></a></td>
+      <td>LLM Prompts</td>
+    </tr>
+    <tr>
+      <td><a href="requirements1.txt"><code>requirements1.txt</code></a></td>
+      <td>Python Dependencies</td>
+    </tr>
+    <tr>
+      <td><a href="LICENSE"><code>LICENSE</code></a></td>
+      <td>MIT License</td>
+    </tr>
+    <tr>
+      <td><a href="README.md"><code>README.md</code></a> · <a href="README.kor.md"><code>README.kor.md</code></a></td>
+      <td>Documentation</td>
+    </tr>
+  </tbody>
+</table>
 
-```text
 
-| Path                          | Purpose                                                 |
-| ----------------------------- | ------------------------------------------------------- |
-| `AI_Trend_Analysis.ipynb`     | Main end‑to‑end notebook                                |
-| `Data/`                       | Put your input CSVs (e.g., `data.csv`)                  |
-| `docs/assets/`                | Figures & diagram assets (e.g., `pipeline_diagram.png`) |
-| `output/`                     | Notebook exports (CSV/JSON/plots)                       |
-| `prompt/`                     | LLM prompt(s) for JSON pre‑processing                   |
-| `requirements1.txt`           | Python dependencies                                     |
-| `LICENSE`                     | MIT License                                             |
-| `README.md` · `README.kor.md` | Documentation                                           |
-
-```
 
 <details>
-<summary><strong>Folder tree</strong> (click to expand)</summary>
+<summary><strong>Folder Tree</strong> (click to expand)</summary>
 
 ```text
 AI-Architecture-Trend-Analysis/
 ├── AI_Trend_Analysis.ipynb
 ├── Data/
-│   └── data.csv                # your data (example name)
+│   └── data.csv                
 ├── docs/
 │   └── assets/
 │       └── pipeline_diagram.png
@@ -69,8 +94,9 @@ AI-Architecture-Trend-Analysis/
 ├── prompt/
 ├── requirements1.txt
 ├── LICENSE
+├── README_kor.md
 └── README.md
-```
+````
 
 </details>
 
