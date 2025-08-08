@@ -16,6 +16,7 @@ from caption‑like text using **Sentence‑Transformers → UMAP/HDBSCAN (BERTo
 ---
 
 ## ✨ Key Features
+```text
 
 | What it does | Why it matters |
 |---|---|
@@ -24,18 +25,17 @@ from caption‑like text using **Sentence‑Transformers → UMAP/HDBSCAN (BERTo
 | **Domain‑aware re‑categorisation** (via LLM or rule/prompt) | Map raw topics into architect‑friendly classes |
 | **Prompt generation** from discovered categories | Feed generative image‑AI or share structured trend prompts |
 | **Single notebook** (`AI_Trend_Analysis.ipynb`) | End‑to‑end, reproducible |
+```
 
 ---
 
-You're right—the code fences were swallowing headings and making the sections look cramped.
-Below are **drop‑in replacements** for only the two parts you mentioned: **“What’s in this repo”** and **“Quick Start.”**
-Paste these over your current sections; everything else can stay as‑is.
 
----
 
 ## 📦 What’s in this repo
 
 A quick inventory of the repo:
+
+```text
 
 | Path                          | Purpose                                                 |
 | ----------------------------- | ------------------------------------------------------- |
@@ -47,6 +47,8 @@ A quick inventory of the repo:
 | `requirements1.txt`           | Python dependencies                                     |
 | `LICENSE`                     | MIT License                                             |
 | `README.md` · `README.kor.md` | Documentation                                           |
+
+```
 
 <details>
 <summary><strong>Folder tree</strong> (click to expand)</summary>
