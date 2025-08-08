@@ -16,6 +16,7 @@ from caption‑like text using **Sentence‑Transformers → UMAP/HDBSCAN (BERTo
 ---
 
 ## ✨ Key Features
+
 ```text
 
 | What it does | Why it matters |
@@ -25,6 +26,7 @@ from caption‑like text using **Sentence‑Transformers → UMAP/HDBSCAN (BERTo
 | **Domain‑aware re‑categorisation** (via LLM or rule/prompt) | Map raw topics into architect‑friendly classes |
 | **Prompt generation** from discovered categories | Feed generative image‑AI or share structured trend prompts |
 | **Single notebook** (`AI_Trend_Analysis.ipynb`) | End‑to‑end, reproducible |
+
 ```
 
 ---
