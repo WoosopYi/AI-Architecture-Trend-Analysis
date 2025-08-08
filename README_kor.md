@@ -31,19 +31,52 @@
 
 ---
 
-##  리포지토리 구성
+<h2>리포지토리 구성</h2>
+<p>리포지토리 한눈에 보기:</p>
 
-리포지토리 한눈에 보기:
+<table>
+  <thead>
+    <tr>
+      <th align="left">경로</th>
+      <th align="left">용도</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="AI_Trend_Analysis.ipynb"><code>AI_Trend_Analysis.ipynb</code></a></td>
+      <td>엔드‑투‑엔드 메인 노트북</td>
+    </tr>
+    <tr>
+      <td><a href="Data/"><code>Data/</code></a></td>
+      <td>입력 CSV 저장 위치(예: <code>data.csv</code>)</td>
+    </tr>
+    <tr>
+      <td><a href="docs/assets/"><code>docs/assets/</code></a></td>
+      <td>다이어그램/이미지 자산(예: <code>pipeline_diagram.png</code>)</td>
+    </tr>
+    <tr>
+      <td><a href="output/"><code>output/</code></a></td>
+      <td>노트북 출력물(CSV/JSON/플롯)</td>
+    </tr>
+    <tr>
+      <td><a href="prompt/"><code>prompt/</code></a></td>
+      <td>JSON 전처리용 LLM 프롬프트</td>
+    </tr>
+    <tr>
+      <td><a href="requirements1.txt"><code>requirements1.txt</code></a></td>
+      <td>파이썬 의존성 목록</td>
+    </tr>
+    <tr>
+      <td><a href="LICENSE"><code>LICENSE</code></a></td>
+      <td>MIT 라이선스</td>
+    </tr>
+    <tr>
+      <td><a href="README.md"><code>README.md</code></a> · <a href="README.kor.md"><code>README.kor.md</code></a></td>
+      <td>문서</td>
+    </tr>
+  </tbody>
+</table>
 
-
-| [`AI_Trend_Analysis.ipynb`](AI_Trend_Analysis.ipynb) |
-| [`Data/`](Data/) |
-| [`docs/assets/`](docs/assets/) |
-| [`output/`](output/) |
-| [`prompt/`](prompt/) |
-| [`requirements1.txt`](requirements1.txt) |
-| [`LICENSE`](LICENSE) |
-| [`README.md`](README.md) · [`README.kor.md`](README.kor.md) |
 
 
 <details>
