@@ -51,20 +51,16 @@
       <td>입력 CSV 저장 위치(예: <code>data.csv</code>)</td>
     </tr>
     <tr>
-      <td><a href="docs/assets/"><code>docs/assets/</code></a></td>
-      <td>다이어그램/이미지 자산(예: <code>pipeline_diagram.png</code>)</td>
-    </tr>
-    <tr>
       <td><a href="output/"><code>output/</code></a></td>
-      <td>노트북 출력물(CSV/JSON/플롯)</td>
+      <td>결과물(CSV/JSON/플롯)</td>
     </tr>
     <tr>
       <td><a href="prompt/"><code>prompt/</code></a></td>
-      <td>JSON 전처리용 LLM 프롬프트</td>
+      <td>LLM 프롬프트</td>
     </tr>
     <tr>
       <td><a href="requirements1.txt"><code>requirements1.txt</code></a></td>
-      <td>파이썬 의존성 목록</td>
+      <td>환경 구축용 패키지 목록</td>
     </tr>
     <tr>
       <td><a href="LICENSE"><code>LICENSE</code></a></td>
