@@ -36,7 +36,6 @@
 리포지토리 한눈에 보기:
 
 
-| :-- |
 | [`AI_Trend_Analysis.ipynb`](AI_Trend_Analysis.ipynb) |
 | [`Data/`](Data/) |
 | [`docs/assets/`](docs/assets/) |
