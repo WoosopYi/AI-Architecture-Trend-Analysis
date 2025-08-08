@@ -1,34 +1,33 @@
-```markdown
+### 1) Header block (replace your current top block with this)
+
 <!-- ─────────────────────────── Language Switcher ─────────────────────────── -->
+
 [🇰🇷 한국어 README](README.kor.md)
 
 # AI‑Architecture‑Trend‑Analysis
+
 [![PyPI - Python](https://img.shields.io/badge/python-v3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/WoosopYi/AI-Architecture-Trend-Analysis?style=social)](https://github.com/WoosopYi/AI-Architecture-Trend-Analysis/stargazers)
 
 <img src="docs/assets/pipeline_diagram.png" width="38%" align="right" alt="Pipeline overview" />
 
-A **turn‑key pipeline** that extracts, clusters & interprets architectural design trends  
-from caption‑like text using **Sentence‑Transformers → UMAP/HDBSCAN (BERTopic) → LLM‑assisted re‑categorisation**.  
-*(The caption text can be produced separately with a VLM. This notebook starts from text.)* :contentReference[oaicite:1]{index=1}
+**AI‑Architecture‑Trend‑Analysis** is a turn‑key pipeline for extracting, clustering, and interpreting architectural design trends from caption‑like text.
 
-```
+* **Pipeline:** Sentence‑Transformers → UMAP/HDBSCAN (BERTopic) → LLM‑assisted re‑categorisation
+* **Input:** Image captions or curated descriptions *(captions can be generated separately with a VLM; this notebook starts from text)*
+
 ---
 
-## 📦 Key Features
+### 2) Key Features (replace the whole section with this)
 
-```text
+## ✨ Key Features
 
-| What it does | Why it matters |
-|---|---|
-| **Text‑only input** (image captions or curated descriptions) | Avoid manual labeling and start fast |
-| **BERTopic pipeline** (embeddings → UMAP → HDBSCAN → c‑TF‑IDF) | Robust topic discovery with interpretable keywords |
-| **Domain‑aware re‑categorisation** (via LLM or rule/prompt) | Map raw topics into architect‑friendly classes |
-| **Prompt generation** from discovered categories | Feed generative image‑AI or share structured trend prompts |
-| **Single notebook** (`AI_Trend_Analysis.ipynb`) | End‑to‑end, reproducible |
-
-```
+* **Text‑only start:** Use captions/descriptions—no manual labels needed.
+* **BERTopic discovery:** Embeddings → UMAP → HDBSCAN → c‑TF‑IDF for clear, interpretable topics.
+* **Domain‑aware mapping:** Re‑categorise raw topics into architect‑friendly classes via LLM or rules/prompts.
+* **Prompt generation:** Turn category keywords into ready‑to‑use prompts for generative image‑AI.
+* **Single‑notebook workflow:** Everything runs in `AI_Trend_Analysis.ipynb` for easy reproduction.
 
 ---
 
