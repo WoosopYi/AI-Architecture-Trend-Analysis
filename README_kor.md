@@ -99,7 +99,7 @@ AI-Architecture-Trend-Analysis/
 
 ##  빠른 시작
 
-클론 → 설치 → 데이터 준비 → (선택) 로컬 GGUF 모델 추가 → 실행:
+클론 → 설치 → 데이터 준비 → (선택) 로컬 GGUF 모델 추가 → 실행
 
 ```bash
 git clone https://github.com/WoosopYi/AI-Architecture-Trend-Analysis.git
@@ -133,7 +133,7 @@ jupyter lab AI_Trend_Analysis.ipynb
 
 ##  입력 데이터 스키마 (CSV)
 
-`./Data/data.csv`에 최소 **`description`** 컬럼(이미지/프로젝트별 캡션형 텍스트)을 포함해 주세요.
+`./Data/data.csv`에  **`description`** 컬럼(이미지/프로젝트별 캡션형 텍스트)을 포함해 주세요.
 
 ```csv
 description
@@ -147,8 +147,6 @@ description
 ---
 
 ##  Step‑by‑Step
-
-아래 단계는 **노트북과 동일한 경로/함수/파라미터**를 따릅니다. 각 단계마다 **핵심 요약**을 덧붙였습니다.
 
 ### 0) 환경 설정(필수 라이브러리 설치)
 
