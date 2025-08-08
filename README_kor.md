@@ -44,7 +44,7 @@
   <tbody>
     <tr>
       <td><a href="AI_Trend_Analysis.ipynb"><code>AI_Trend_Analysis.ipynb</code></a></td>
-      <td>엔드‑투‑엔드 메인 노트북</td>
+      <td>메인 코드</td>
     </tr>
     <tr>
       <td><a href="Data/"><code>Data/</code></a></td>
