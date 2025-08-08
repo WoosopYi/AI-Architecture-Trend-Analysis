@@ -35,16 +35,16 @@
 
 리포지토리 한눈에 보기:
 
-| 경로 | 용도 |
+
 | :-- | :-- |
-| [`AI_Trend_Analysis.ipynb`](AI_Trend_Analysis.ipynb) | 엔드‑투‑엔드 메인 노트북 |
-| [`Data/`](Data/) | 입력 CSV 저장 위치(예: `data.csv`) |
-| [`docs/assets/`](docs/assets/) | 다이어그램/이미지 자산(예: `pipeline_diagram.png`) |
-| [`output/`](output/) | 노트북 출력물(CSV/JSON/플롯) |
-| [`prompt/`](prompt/) | JSON 전처리용 LLM 프롬프트 |
-| [`requirements1.txt`](requirements1.txt) | 파이썬 의존성 목록 |
-| [`LICENSE`](LICENSE) | MIT 라이선스 |
-| [`README.md`](README.md) · [`README.kor.md`](README.kor.md) | 문서 |
+| [`AI_Trend_Analysis.ipynb`](AI_Trend_Analysis.ipynb) |
+| [`Data/`](Data/) |
+| [`docs/assets/`](docs/assets/) |
+| [`output/`](output/) |
+| [`prompt/`](prompt/) |
+| [`requirements1.txt`](requirements1.txt) |
+| [`LICENSE`](LICENSE) |
+| [`README.md`](README.md) · [`README.kor.md`](README.kor.md) |
 
 
 <details>
