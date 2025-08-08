@@ -1,4 +1,3 @@
-````markdown
 <!-- 언어 스위처 -->
 <p align="right">
   <a href="README.md">
@@ -22,7 +21,7 @@
 
 ---
 
-## ✨ 주요 특징
+##  주요 특징
 
 - **텍스트만으로 시작:** 캡션/설명 텍스트만 있으면 라벨링 없이 바로 분석.
 - **BERTopic 기반 발견:** 임베딩 → UMAP → HDBSCAN → c‑TF‑IDF로 명확하고 해석 가능한 토픽 도출.
@@ -32,9 +31,11 @@
 
 ---
 
-## 📦 리포지토리 구성
+##  리포지토리 구성
 
 리포지토리 한눈에 보기:
+
+```text
 
 | 경로 | 용도 |
 |---|---|
@@ -46,6 +47,8 @@
 | `requirements1.txt` | 파이썬 의존성 목록 |
 | `LICENSE` | MIT 라이선스 |
 | `README.md` · `README.kor.md` | 문서 |
+
+```
 
 <details>
 <summary><strong>폴더 트리</strong> (펼치기)</summary>
