@@ -27,27 +27,52 @@ from caption‑like text using **Sentence‑Transformers → UMAP/HDBSCAN (BERTo
 
 ---
 
+You're right—the code fences were swallowing headings and making the sections look cramped.
+Below are **drop‑in replacements** for only the two parts you mentioned: **“What’s in this repo”** and **“Quick Start.”**
+Paste these over your current sections; everything else can stay as‑is.
+
+---
+
 ## 📦 What’s in this repo
 
+A quick inventory of the repo:
+
+| Path                          | Purpose                                                 |
+| ----------------------------- | ------------------------------------------------------- |
+| `AI_Trend_Analysis.ipynb`     | Main end‑to‑end notebook                                |
+| `Data/`                       | Put your input CSVs (e.g., `data.csv`)                  |
+| `docs/assets/`                | Figures & diagram assets (e.g., `pipeline_diagram.png`) |
+| `output/`                     | Notebook exports (CSV/JSON/plots)                       |
+| `prompt/`                     | LLM prompt(s) for JSON pre‑processing                   |
+| `requirements1.txt`           | Python dependencies                                     |
+| `LICENSE`                     | MIT License                                             |
+| `README.md` · `README.kor.md` | Documentation                                           |
+
+<details>
+<summary><strong>Folder tree</strong> (click to expand)</summary>
+
+```text
+AI-Architecture-Trend-Analysis/
+├── AI_Trend_Analysis.ipynb
+├── Data/
+│   └── data.csv                # your data (example name)
+├── docs/
+│   └── assets/
+│       └── pipeline_diagram.png
+├── output/
+├── prompt/
+├── requirements1.txt
+├── LICENSE
+└── README.md
 ```
 
-AI-Architecture-Trend-Analysis/
-├─ Data/                       ← place your CSV here (e.g., data.csv)
-├─ docs/assets/                ← figures & paper/diagram assets
-├─ output/                     ← all notebook outputs exported here
-├─ prompt/                     ← LLM prompt(s) for JSON pre-processing
-├─ AI\_Trend\_Analysis.ipynb     ← main end-to-end notebook
-├─ requirements1.txt
-├─ LICENSE
-└─ README.md | README.kor.md
-
-````
-
-> 위 구조와 `docs/assets/pipeline_diagram.png` 경로는 현재 리포에 존재하는 실제 항목/경로입니다. :contentReference[oaicite:2]{index=2}
+</details>
 
 ---
 
 ## ⚡ Quick Start
+
+Clone, install, prepare data, (optionally) add a local GGUF model, then run:
 
 ```bash
 git clone https://github.com/WoosopYi/AI-Architecture-Trend-Analysis.git
@@ -61,7 +86,7 @@ pip install --upgrade pip plotly kaleido
 pip install "llama-cpp-python" bertopic datasets jinja2 spacy spacy-transformers
 python -m spacy download en_core_web_trf
 
-# 2) Prepare your input CSV at ./Data/data.csv (see schema below)
+# 2) Prepare your input CSV at ./Data/data.csv (see schema in README)
 
 # 3) (Optional, for local LLM topic labeling) Put a GGUF model at ./model/
 # Example: openhermes-2.5-mistral-7b.Q4_K_M.gguf (quantized)
@@ -70,7 +95,7 @@ python -m spacy download en_core_web_trf
 
 # 4) Run the notebook top → bottom
 jupyter lab AI_Trend_Analysis.ipynb
-````
+```
 
 **Hardware tips**
 
