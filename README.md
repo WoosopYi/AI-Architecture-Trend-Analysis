@@ -105,7 +105,7 @@ Key fixes vs. your previous draft:
 
 ---
 
-## 🧪 Step‑by‑Step (exact parity with `AI_Trend_Analysis.ipynb`)
+## 🧪 Step‑by‑Step
 
 ### 0) Environment setup (required library installation)
 
