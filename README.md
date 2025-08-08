@@ -13,9 +13,10 @@ A **turn‑key pipeline** that extracts, clusters & interprets architectural des
 from caption‑like text using **Sentence‑Transformers → UMAP/HDBSCAN (BERTopic) → LLM‑assisted re‑categorisation**.  
 *(The caption text can be produced separately with a VLM. This notebook starts from text.)* :contentReference[oaicite:1]{index=1}
 
+```
 ---
 
-## ✨ Key Features
+## 📦 Key Features
 
 ```text
 
