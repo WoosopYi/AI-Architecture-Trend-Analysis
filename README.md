@@ -149,18 +149,6 @@ description
 
 > The notebook currently loads: `load_dataset("csv", data_files="Data/data.csv", encoding="cp949")["train"]` and uses `dataset["description"]`. If your file is UTF‑8, change `encoding` to `"utf-8-sig"`.
 
----
-Got it. Below is a **drop‑in replacement** for the **Step‑by‑Step** section only.
-It now **matches `AI_Trend_Analysis.ipynb` exactly** (paths, function names, arguments). I’ve also added a one‑line **Core idea** under each step.
-
-Key fixes vs. your previous draft:
-
-* Input CSV path → `"/app/paper/data/data.csv"`
-* Local GGUF model path → `"/app/paper/model/openhermes-2.5-mistral-7b.Q4_K_M.gguf"`
-* Outputs → `"/app/Github/output/..."`
-* Kept the exact function names/signatures used in the notebook (e.g., `spacy_tokenizer`, `LlamaCPP`, `visualize_*`, etc.)
-
----
 
 ##  Step‑by‑Step
 
